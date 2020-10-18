@@ -12,10 +12,10 @@ Finally, this project will end up in exploring each of the neighborhoods so as t
 Tools used in this project:
   1. <b>Data Wrangling and Manipulation</b>: pandas
   
-  2. Modeling: scikit-learn, numpy
+  2. <b>Modeling</b>: scikit-learn, numpy
   
-  3. Web scraping: requests, geopy
+  3. <b>Web scraping</b>: requests, geopy
   
-  4. Visualization: matplotlib, seaborn, folium, pywaffle, wordcloud, PIL
+  4. <b>Visualization</b>: matplotlib, seaborn, folium, pywaffle, wordcloud, PIL
   
-  5. Foursquare API: Tool to obtain the location data of the main venues in each neighborhood
+  5. <b>Foursquare API</b>: Tool to obtain the location data of the main venues in each neighborhood
