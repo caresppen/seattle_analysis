@@ -1,7 +1,9 @@
 # Seattle: Data Analysis of the city
 ## IBM Data Science Professional Certificate Final Project
 
-In this data analysis of the city of Seattle, the objective will be to find patterns within it using data. Firstly, this research starts analyzing which are the most affected areas by Fire Alarms and if this is related with the population rate in these areas. Secondly, it is also possible to connect the employment ratio with the crime one. Usually, neighborhoods with more business and nearer to the city centre tend to have a higher number of incidents.
+In this data analysis of the city of Seattle, the objective will be to find patterns within it using data.
+
+Firstly, this research starts analyzing which are the most affected areas by Fire Alarms and if this is related with the population rate in these areas. Secondly, it is also possible to connect the employment ratio with the crime one. Usually, neighborhoods with more business and nearer to the city centre tend to have a higher number of incidents.
 
 Gathering all these concerns, it would be possible to create maps and information charts for the city of Seattle.
 
