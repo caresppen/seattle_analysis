@@ -10,8 +10,12 @@ Gathering all these concerns, it would be possible to create maps and informatio
 Finally, this project will end up in exploring each of the neighborhoods so as to find clusters in which they can be placed. To this aim, this clustering will be based on the top venues hold in each of the districts. Therefore, different types of venues will be found, spotting the trending ones in each borough.
 
 Tools used in this project:
-  1. Data Wrangling and Manipulation: pandas
+  1. <b>Data Wrangling and Manipulation</b>: pandas
+  
   2. Modeling: scikit-learn, numpy
+  
   3. Web scraping: requests, geopy
-  4. Visualization: matplotlib, seaborn, folium, pywaffle, wordcloud, PIL 
-  5. Foursquare API: Tool to obtain the location data of the main venues in each neighborhood.
+  
+  4. Visualization: matplotlib, seaborn, folium, pywaffle, wordcloud, PIL
+  
+  5. Foursquare API: Tool to obtain the location data of the main venues in each neighborhood
