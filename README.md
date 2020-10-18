@@ -1,5 +1,5 @@
-Seattle: Data Analysis of the city
-IBM Data Science Professional Certificate Final Project
+# Seattle: Data Analysis of the city
+# IBM Data Science Professional Certificate Final Project
 
 In this data analysis of the city of Seattle, the objective will be to find patterns within it using data. Firstly, this research starts analyzing which are the most affected areas by Fire Alarms and if this is related with the population rate in these areas. Secondly, it is also possible to connect the employment ratio with the crime one. Usually, neighborhoods with more business and nearer to the city centre tend to have a higher number of incidents.
 
@@ -8,9 +8,8 @@ Gathering all these concerns, it would be possible to create maps and informatio
 Finally, this project will end up in exploring each of the neighborhoods so as to find clusters in which they can be placed. To this aim, this clustering will be based on the top venues hold in each of the districts. Therefore, different types of venues will be found, spotting the trending ones in each borough.
 
 Tools used in this project:
-1.	python libraries:
-o	Data Wrangling and Manipulation: pandas
-o	Modeling: scikit-learn, numpy
-o	Web scraping: requests, geopy
-o	Visualization: matplotlib, seaborn, folium, pywaffle, wordcloud, PIL 
-2.	Foursquare API: Tool to obtain the location data of the main venues in each neighborhood.
+1. Data Wrangling and Manipulation: pandas
+2. Modeling: scikit-learn, numpy
+3. Web scraping: requests, geopy
+4. Visualization: matplotlib, seaborn, folium, pywaffle, wordcloud, PIL 
+5. Foursquare API: Tool to obtain the location data of the main venues in each neighborhood.
