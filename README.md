@@ -1,5 +1,5 @@
 # Seattle: Data Analysis of the city
-## IBM Data Science Professional Certificate Final Project
+### IBM Data Science Professional Certificate Final Project
 
 In this data analysis of the city of Seattle, the objective will be to find patterns within it using data.
 
@@ -9,7 +9,7 @@ Gathering all these concerns, it would be possible to create maps and informatio
 
 Finally, this project will end up in exploring each of the neighborhoods so as to find clusters in which they can be placed. To this aim, this clustering will be based on the top venues hold in each of the districts. Therefore, different types of venues will be found, spotting the trending ones in each borough.
 
-Tools used in this project:
+### Tools used in this project:
   1. <b>Data Wrangling and Manipulation</b>: pandas
   
   2. <b>Modeling</b>: scikit-learn, numpy
