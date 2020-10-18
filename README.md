@@ -1,5 +1,5 @@
 # Seattle: Data Analysis of the city
-### IBM Data Science Professional Certificate Final Project
+## IBM Data Science Professional Certificate Final Project
 
 In this data analysis of the city of Seattle, the objective will be to find patterns within it using data.
 
