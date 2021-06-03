@@ -7,7 +7,7 @@ sklearn
 folium
 pywaffle
 wordcloud
-PIL
+pillow
 geopy
 ipyvuetify
 voila
