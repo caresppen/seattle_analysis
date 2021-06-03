@@ -1,0 +1,14 @@
+pandas
+numpy
+seaborn
+requests
+matplotlib
+sklearn
+folium
+pywaffle
+wordcloud
+PIL
+geopy
+ipyvuetify
+voila
+voila-material
